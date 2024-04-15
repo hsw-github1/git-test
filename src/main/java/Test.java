@@ -12,5 +12,6 @@ public class Test {
         System.out.println("hello git3 and ieda3");
         System.out.println("hello git4 and idea4");
         System.out.println("master hello");
+        System.out.println("hot-fix hello");
     }
 }
